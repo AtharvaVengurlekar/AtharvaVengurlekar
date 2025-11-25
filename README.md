@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Vengurlekar</h1>
+<h1 align="center">Hi, I'm Atharva Vengurlekar</h1>
 <h3 align="center">I am deeply driven by the transformative power of Artificial Intelligence, with a strong focus on Deep Learning and Computer Vision. I enjoy building intelligent systems that can perceive, understand, and act—bridging the gap between the digital and physical world.</h3>
 
 - 🔭 I'm currently working on **Person Detection with Face Detection and Recognition through real time cctv camera**
