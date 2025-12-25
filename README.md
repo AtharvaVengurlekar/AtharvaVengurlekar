@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Atharva Vengurlekar</h1>
 <h3 align="center">I am deeply driven by the transformative power of Artificial Intelligence, with a strong focus on Deep Learning and Computer Vision. I enjoy building intelligent systems that can perceive, understand, and act—bridging the gap between the digital and physical world.</h3>
 
-- 🔭 I'm currently working on **Person Detection with Face Detection and Recognition through real time cctv camera**
+- I'm currently working on **Person Detection with Face Detection and Recognition through real time cctv camera**
 
-- 🌱 I'm currently learning **Diffusion models, Transformers**
+- I'm currently learning **Diffusion models, Transformers**
 
-- 👯 I’m looking to collaborate on **Text to Text and Text to Image Generative AI**
+- I’m looking to collaborate on **Text to Text and Text to Image Generative AI**
 
-- 🤝 I'm looking for help with **Advanced Computer Vision Projects**
+- I'm looking for help with **Advanced Computer Vision Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AtharvaVengurlekar](https://github.com/AtharvaVengurlekar)
+- All of my projects are available at [https://github.com/AtharvaVengurlekar](https://github.com/AtharvaVengurlekar)
 
-- 💬 Ask me about **Artificial Intelligence , Deep Learning**
+- Ask me about **Artificial Intelligence , Deep Learning**
 
-- 📫 How to reach me **atharvav99@gmail.com**
+- How to reach me **atharvav99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OL9Hek0I4LgDrymHbLWtjKlhS62_xMTd/view?usp=drivesdk](https://drive.google.com/file/d/1OL9Hek0I4LgDrymHbLWtjKlhS62_xMTd/view?usp=drivesdk)
+- Know about my experiences [https://drive.google.com/file/d/1OL9Hek0I4LgDrymHbLWtjKlhS62_xMTd/view?usp=drivesdk](https://drive.google.com/file/d/1OL9Hek0I4LgDrymHbLWtjKlhS62_xMTd/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
